@@ -1,4 +1,4 @@
-# ComfyUI StyleGAN2 Explorer
+# ComfyUI StyleGAN2 Explorer (Ver. 1)
 
 Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that bring 
 StyleGAN2 latent space exploration directly into your workflow graph.
