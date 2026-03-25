@@ -2,6 +2,7 @@
 
 Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that bring 
 StyleGAN2 latent space exploration directly into your workflow graph.
+For more backgrounds and demos [read my blog](https://medium.com/merzazine/stylegan2-locally-part-i-comfyui-e83df2f4fb3f?sk=028fa0d6cab9edc5736225c530bb1909).
 
 ## Features
 
